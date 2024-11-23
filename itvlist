@@ -71,7 +71,7 @@ CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
-其他,#genre#
+其他1,#genre#
 1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 2,http://223.241.247.214:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -100,6 +100,28 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/
 26,http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 27,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 28,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+其它2,#genre#
+1,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+2,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+3,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+4,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+5,http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+6,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+7,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+8,http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+9,http://ali-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+10,http://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+12,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+13,http://ali-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+14,http://ali-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
+15,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+16,http://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+17,http://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+18,http://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+19,http://ali-m-l.cztv.com/channels/lantian/channel19/1080p.m3u8
+20,http://ali-m-l.cztv.com/channels/lantian/channel20/1080p.m3u8
+21,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
