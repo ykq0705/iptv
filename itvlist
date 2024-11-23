@@ -17,14 +17,14 @@ CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226428/index.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-5体育,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
 CCTV-5体育,http://59.48.75.130:3052/tsfile/live/0005_1.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+CCTV-5+体育赛事,http://59.48.75.130:3052/tsfile/live/0006_1.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-6电影,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8
-CCTV-6电影,http://59.48.75.130:3052/tsfile/live/0006_1.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 CCTV-7国防军事,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8
@@ -64,7 +64,6 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/inde
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226591/index.m3u8
 CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
-CCTV-15音乐,http://59.48.75.130:3052/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
