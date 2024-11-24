@@ -1,4 +1,4 @@
-经典央视频道,#genre#
+经典央视,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -42,7 +42,7 @@ CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
-其他央视频道,#genre#
+其他央视,#genre#
 CCTV-1综合,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://59.48.75.130:3052/tsfile/live/0001_1.m3u8
@@ -89,7 +89,7 @@ CCTV-14少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
 CCTV-14少儿,http://59.48.75.130:3052/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 
-经典卫视频道,#genre#
+经典卫视,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -101,7 +101,7 @@ CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
 
-其他卫视频道,#genre#
+其他卫视,#genre#
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://59.48.75.130:3052/tsfile/live/0130_1.m3u8
