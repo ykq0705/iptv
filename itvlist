@@ -1,4 +1,4 @@
-PLTV央视,#genre#
+移动央视,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
@@ -33,7 +33,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 
-PLTV卫视,#genre#
+移动卫视,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -127,7 +127,7 @@ PLTV卫视,#genre#
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 
-PLTV地方,#genre#
+移动地方,#genre#
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
@@ -166,7 +166,7 @@ PLTV地方,#genre#
 双鸭山新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 伊春新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 
-NewTV频道,#genre#
+New-TV,#genre#
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -203,7 +203,7 @@ NewTV频道,#genre#
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
-Tvod央视,#genre#
+移动央视,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
@@ -238,7 +238,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8
 
-其他央视,#genre#
+电信央视,#genre#
 CCTV-1综合,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://59.48.75.130:3052/tsfile/live/0001_1.m3u8
@@ -285,10 +285,9 @@ CCTV-14少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
 CCTV-14少儿,http://59.48.75.130:3052/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 
-其他卫视,#genre#
+电信卫视,#genre#
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://59.48.75.130:3052/tsfile/live/0130_1.m3u8
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8
