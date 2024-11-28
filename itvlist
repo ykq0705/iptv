@@ -1,4 +1,4 @@
-龙江移动1,,#genre#
+移动央视1,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226514/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226559/index.m3u8
@@ -33,6 +33,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
 
+移动卫视1,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226391/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226498/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225728/index.m3u8
@@ -125,9 +126,10 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225662/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225653/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225656/index.m3u8
-
-北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225729/index.m3u8
 北京卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
+
+移动地方1,#genre#
+北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225729/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225655/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225738/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226523/index.m3u8
@@ -164,6 +166,7 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3
 双鸭山新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226529/index.m3u8
 伊春新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226416/index.m3u8
 
+移动NewTV,#genre#
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225669/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225716/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225717/index.m3u8
@@ -200,7 +203,7 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225673/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225681/index.m3u8
 
-龙江移动2,#genre#
+移动央视2,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
@@ -235,6 +238,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8
 CGTN-纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8
 
+移动卫视2,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226498/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225728/index.m3u8
@@ -327,9 +331,10 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
+北京卡酷少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
 
+移动地方2,#genre#
 北京纪实,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8
-北京少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225655/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
 大庆教育频道,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226523/index.m3u8
@@ -366,6 +371,7 @@ CGTN-纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.
 双鸭山新闻综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226529/index.m3u8
 伊春新闻综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226416/index.m3u8
 
+移动NewTV2,#genre#
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
@@ -514,8 +520,6 @@ CCTV-15音乐,http://223.241.247.214:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 浙江卫视,http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://58.220.219.14:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://59.48.75.130:3052/tsfile/live/0142_1.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://59.48.75.130:3052/tsfile/live/0130_1.m3u8
@@ -524,3 +528,5 @@ CCTV-15音乐,http://223.241.247.214:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 马鞍山科教生活,http://223.241.247.214:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 马鞍山新闻综合,http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 上海纪实人文,http://59.48.75.130:3052/tsfile/live/0120_1.m3u8
+浙江卫视中国蓝,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视Z视介,http://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
