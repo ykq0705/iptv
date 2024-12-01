@@ -422,11 +422,12 @@ CCTV-4中文国际,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txipt
 CCTV-4中文国际,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8
 CCTV-4中文国际,http://59.48.75.130:3052/tsfile/live/0004_1.m3u8
 CCTV-4中文国际,http://fangke.blueswords.com:9901/tsfile/live/0004_1.m3u8
-CCTV-5+体育赛事,http://59.48.75.130:3052/tsfile/live/0006_1.m3u8
 CCTV-5体育,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
 CCTV-5体育,http://59.48.75.130:3052/tsfile/live/0005_1.m3u8
 CCTV-5体育,http://fangke.blueswords.com:9901/tsfile/live/0005_1.m3u8
+CCTV-5+体育赛事,http://59.48.75.130:3052/tsfile/live/0006_1.m3u8
+CCTV-5+体育赛事,,http://fangke.blueswords.com:9901/tsfile/live/0016_1.m3u8
 CCTV-6电影,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8
 CCTV-6电影,http://59.48.75.130:3052/tsfile/live/0007_1.m3u8
@@ -453,6 +454,7 @@ CCTV-11戏曲,http://fangke.blueswords.com:9901/tsfile/live/0011_1.m3u8
 CCTV-12社会与法,http://223.241.247.214:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12社会与法,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8
 CCTV-12社会与法,http://59.48.75.130:3052/tsfile/live/0013_1.m3u8
+CCTV-12社会与法,,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8
 CCTV-13新闻,http://223.241.247.214:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8
 CCTV-13新闻,http://59.48.75.130:3052/tsfile/live/0014_1.m3u8
@@ -476,6 +478,7 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 电信卫视,#genre#
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
+安徽卫视,http://fangke.blueswords.com:9901/tsfile/live/0135_1.m3u8
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://59.48.75.130:3052/tsfile/live/0132_1.m3u8
