@@ -468,12 +468,13 @@ CCTV-15音乐,http://223.241.247.214:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,https://pi.0472.org/tv/mzt.php?auth=2310201855
+CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 
 电信卫视,#genre#
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -569,6 +570,8 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 马鞍山科教生活,http://223.241.247.214:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 马鞍山新闻综合,http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 上海纪实人文,http://59.48.75.130:3052/tsfile/live/0120_1.m3u8
+山东新闻1,http://113.120.108.191:4000/udp/239.21.1.140:5002
+山东新闻2,https://epg.pw/stream/df596aabef19d13e9bbd460f86089bc10de5facf7620b644d048039aa5897b4a.ctv
 山东体育休闲,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 中国蓝新闻-CCTV1综合,http://ali-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 中国蓝新闻-CCTV13新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -612,11 +615,7 @@ iHOT精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000
 美丽中国自然,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
 熊猫频道①,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 熊猫频道②,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-成都大熊猫基地成年园①,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-成都大熊猫基地成年园②,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
-成都大熊猫基地别墅①,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-成都大熊猫基地别墅②,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-成都大熊猫基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+熊猫频道③,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
 安徽黄山飞来石,http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 安徽黄山黄山卧云峰,http://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
 安徽宣城溪桃大桥,http://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
