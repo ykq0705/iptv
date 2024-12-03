@@ -408,7 +408,6 @@ New TV,#genre#
 CCTV-1综合,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://59.48.75.130:3052/tsfile/live/0001_1.m3u8
-CCTV-1综合,http://ali-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 CCTV-1综合,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8
 CCTV-2财经,http://223.241.247.214:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
@@ -458,7 +457,6 @@ CCTV-12社会与法,,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8
 CCTV-13新闻,http://223.241.247.214:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8
 CCTV-13新闻,http://59.48.75.130:3052/tsfile/live/0014_1.m3u8
-CCTV-13新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13新闻,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8
 CCTV-14少儿,http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
@@ -584,8 +582,10 @@ iHOT爱体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 iHOT精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 
 直播中国,#genre#
+1,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国精编,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 熊猫频道,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+熊猫频道1,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 梵净山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
