@@ -567,6 +567,17 @@ CCTV-15音乐,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8
 山东新闻频道,http://113.120.108.191:4000/udp/239.21.1.140:5002
 上海纪实人文,http://59.48.75.130:3052/tsfile/live/0120_1.m3u8
 
+江苏频道,#genre#
+江苏卫视,http://106.53.99.30/dl/jstv.php?id=jsws
+江苏城市,http://106.53.99.30/dl/jstv.php?id=jscs
+江苏综艺,http://106.53.99.30/dl/jstv.php?id=jszy
+江苏影视,http://106.53.99.30/dl/jstv.php?id=jsys
+江苏新闻,http://106.53.99.30/dl/jstv.php?id=jsxw
+江苏体育休闲,http://106.53.99.30/dl/jstv.php?id=jsty
+优漫卡通,http://106.53.99.30/dl/jstv.php?id=jskt
+江苏国际,http://106.53.99.30/dl/jstv.php?id=jsgj
+江苏教育,http://106.53.99.30/dl/jstv.php?id=jsjy
+
 iHOT爱频道,#genre#
 iHOT爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
