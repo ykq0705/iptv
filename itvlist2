@@ -1,6 +1,8 @@
 央视频道,#genre#
+CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://202.100.46.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://202.100.46.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://202.100.46.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://223.166.234.19:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://117.27.190.42:9998/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -22,11 +24,11 @@ CCTV13,http://36.99.206.9:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&aut
 CCTV14,http://36.99.206.9:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://202.100.46.58:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://36.99.206.9:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://123.138.22.30:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://36.99.206.9:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://121.19.134.139:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV音乐,http://123.138.22.30:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://121.19.134.139:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://223.166.234.19:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://36.99.206.9:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
