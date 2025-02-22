@@ -368,15 +368,11 @@ CCTV-1综合,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://58.58.111.222:808/hls/1/index.m3u8
 CCTV-2财经,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8
 CCTV-2财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
-CCTV-3综艺,http://116.9.204.242:9901/tsfile/live/0003_1.m3u8
-CCTV-3综艺,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv3
 CCTV-3综艺,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
 CCTV-4中文国际,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8
-CCTV-4中文国际,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4
 CCTV-4中文国际,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8
 CCTV-4中文国际,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 CCTV-5体育,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
-CCTV-5体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
 CCTV-5体育,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
 CCTV-5+体育赛事,http://119.164.81.66:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://116.9.204.242:9901/tsfile/live/0006_1.m3u8
@@ -387,7 +383,6 @@ CCTV-7国防军事,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8
 CCTV-8电视剧,http://116.9.204.242:9901/tsfile/live/0008_1.m3u8
 CCTV-8电视剧,http://58.220.219.14:9901/tsfile/live/0008_1.m3u8
 CCTV-9纪录,http://116.9.204.242:9901/tsfile/live/0009_1.m3u8
-CCTV-9纪录,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv9
 CCTV-9纪录,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8
 CCTV-10科教,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8
 CCTV-11戏曲,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8
@@ -402,7 +397,6 @@ CCTV-14少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
 CCTV-15音乐,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 CCTV-16奥林匹克,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16奥林匹克-4K,http://lishiwan.xicp.net:8563/udp/239.255.36.142:8231
 CCTV-兵器科技,http://112.234.21.153:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-兵器科技,http://139.209.36.235:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-兵器科技,http://180.213.174.225:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -427,9 +421,6 @@ CCTV-女性时尚,http://180.213.174.225:9901/tsfile/live/1054_1.m3u8?key=txiptv
 CCTV-世界地理,http://112.234.21.153:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-娱乐,http://extraott.com/live/6772191932/1654508883/62832.m3u8
-CETV-1,http://139.209.36.235:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-2,http://139.209.36.235:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 卫视频道,#genre#
 安徽卫视,http://112.101.78.50:9901/tsfile/live/0130_1.m3u8
@@ -549,9 +540,17 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8
 
-凤凰频道,#genre#
-CEC-1,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC-2,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+其他频道,#genre#
+CEC-1中国国际教育电视,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC-2中国国际教育电视,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CETV-1,http://139.209.36.235:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-2,http://139.209.36.235:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN-阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN-俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN-西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN-英文,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CZTV1-欧洲华文电视,http://delive.eztv.vip/ndehwyt/ndehwyt.m3u8?auth_key=1724809773-0-0-abe7f639d9d933db8e4f750490b82714
+CZTV2-欧洲华文电视,http://delive.eztv.vip/dehwet/dehwet.m3u8?auth_key=1718979320-0-0-25e8b6e9c285f63c8db67c2623deee71
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -559,23 +558,9 @@ CEC-2,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-华文一台,http://delive.eztv.vip/ndehwyt/ndehwyt.m3u8?auth_key=1724809773-0-0-abe7f639d9d933db8e4f750490b82714
-华文二套,http://delive.eztv.vip/dehwet/dehwet.m3u8?auth_key=1718979320-0-0-25e8b6e9c285f63c8db67c2623deee71
-华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
-电影频道,#genre#
-CIBN精品影院,http://zby.xjqxz.top/zh13/live.m3u8
-CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8
-经典电影台,http://ali.hlspull.yximgs.com/live/asdfgDY111.flv
-经典乡村台,https://ali.hlspull.yximgs.com/live/asdfgXC222.flv
-经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-香港功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
-星衛電影台,http://zby.xjqxz.top/live13/live.m3u8
+香港功夫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金鹰卡通,http://110.80.17.38:9901/tsfile/live/0016_2.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
