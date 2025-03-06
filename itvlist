@@ -468,24 +468,6 @@ CGTN Documentary,video://https://www.yangshipin.cn/tv/home?pid=600084781
 厦门海峡,video://https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
 厦门海峡,video://https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
 
-央视高码,#genre#
-CCTV-1综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0.flv
-CCTV-2财经,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qa.flv
-CCTV-3综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/62wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
-CCTV-4中文国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
-CCTV-5体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/61qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7u.flv
-CCTV-6电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tg.flv
-CCTV-7国防军事,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yh.flv
-CCTV-8电视剧,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7uj.flv
-CCTV-9纪录,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8i.flv
-CCTV-10科教,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv10p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik.flv
-CCTV-11戏曲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv11qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol.flv
-CCTV-12社会与法,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv12wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1q.flv
-CCTV-13新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv13edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2ws6.flv
-CCTV-14少儿,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv14rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3e.flv
-CCTV-15音乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv15tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4r.flv
-CCTV-17农业农村,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv17ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6y.flv
-
 北京移动,#genre#
 CCTV-1综合,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-1综合,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
