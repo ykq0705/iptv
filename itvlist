@@ -383,7 +383,7 @@ CCTV-17农业农村,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV
 浙江卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-FM频道,#genre#
+FongMi源,#genre#
 CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
