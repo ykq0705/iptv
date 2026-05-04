@@ -825,6 +825,15 @@ CGTN,http://113.15.109.216:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&a
 厦门卫视,http://182.207.218.239:999/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://61.178.227.57:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://182.207.218.239:999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.105:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.118:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.139:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.153:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.180:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.222:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.234:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.56:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河,http://1.69.114.96:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=00
 
 CCTV-1+央视网,http://1.69.114.105:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1+央视网,http://1.69.114.118:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -888,6 +897,11 @@ CHC影迷电影,http://1.69.114.234:9901/tsfile/live/1028_1.m3u8?key=txiptv&play
 CHC影迷电影,http://1.69.114.56:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://1.69.114.96:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://182.207.218.239:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 电影精选,http://1.69.114.105:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 电影精选,http://1.69.114.118:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -898,11 +912,6 @@ CHC影迷电影,http://182.207.218.239:999/tsfile/live/1016_1.m3u8?key=txiptv&pl
 电影精选,http://1.69.114.234:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 电影精选,http://1.69.114.56:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 电影精选,http://1.69.114.96:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 华数谍战剧场,http://1.69.114.105:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 华数谍战剧场,http://1.69.114.118:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 华数谍战剧场,http://1.69.114.139:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1041,15 +1050,6 @@ CHC影迷电影,http://182.207.218.239:999/tsfile/live/1016_1.m3u8?key=txiptv&pl
 卡酷少儿,http://1.69.114.56:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://1.69.114.96:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://222.214.208.34:59901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.105:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.118:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.139:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.153:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.180:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.222:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.234:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.56:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河,http://1.69.114.96:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://182.207.218.239:999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://222.214.208.34:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
